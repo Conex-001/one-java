@@ -1,4 +1,4 @@
-let score =100;
+let score =40;
 if (score >=90 && score<=100){
     console.log("A");
 }else if (score>= 80 && score<=89){
@@ -9,4 +9,5 @@ if (score >=90 && score<=100){
     console.log("D");
 }else if (score>= 50 && score<=59){
     console.log("E");
-}else console.log("F");
+}else if (score>= 40 && score<=49){
+    console.log("F");}
