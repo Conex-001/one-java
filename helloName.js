@@ -1,5 +1,5 @@
 // String-1 -- helloName
-// Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
+// Given a string name, e.g. "Confidence", return a greeting of the form "Hello Confidence!".
 
 // Examples
 
