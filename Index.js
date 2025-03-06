@@ -1,4 +1,4 @@
-let score =40;
+let score =90;
 if (score >=90 && score<=100){
     console.log("A");
 }else if (score>= 80 && score<=89){
